@@ -1,0 +1,33 @@
+.navbar-nav .nav-link.active {
+    color: #fff;
+}
+
+.nav-link {
+    color: #fff;
+    text-align: center;
+}
+
+header {
+    position: sticky;
+    top: 0;
+    left: 0;
+    background-color: red;
+    color: #fff;
+    z-index: 2;
+}
+
+article {
+    z-index: 1;
+}
+
+.carousel-indicators {
+    z-index: 1;
+}
+
+section h2 {
+    padding-top: 70px;
+}
+
+section .card {
+    margin-bottom: 32px;
+}
